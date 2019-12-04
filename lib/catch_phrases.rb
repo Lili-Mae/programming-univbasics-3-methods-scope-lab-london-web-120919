@@ -14,8 +14,9 @@ def link
   puts phrase
 end
 
-def any_phrase("Do a barrel roll!")
-  puts #{Do a barrel roll!}
+def any_phrase
+  phrase = "Do a barrel roll!"
+  puts phrase 
 end
 
 mario 
