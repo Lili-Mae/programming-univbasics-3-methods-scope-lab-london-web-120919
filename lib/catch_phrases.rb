@@ -13,7 +13,12 @@ def link
   phrase = "It's dangerous to go alone! Take this!"
   puts phrase
 end
-  
+
+def any_phrase
+  puts "Do a barrel roll!"
+end
+
 mario 
 toadstool
 link
+any_phrase
